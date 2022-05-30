@@ -1,0 +1,22 @@
+{
+  "name": "ctse-lab10-week12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivanthi-fernando/ctse-lab10-week12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivanthi-fernando/ctse-lab10-week12/issues"
+  },
+  "homepage": "https://github.com/shivanthi-fernando/ctse-lab10-week12#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
